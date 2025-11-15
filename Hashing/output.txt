@@ -1,0 +1,144 @@
+
+   Table size : 5000
+#### Seperate Chaining ####
+# For Insertion
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.859484
+Avg_prob_count: 1.04419
+
+After rehashing:
+Chain_length: 4
+Load factor: 0.429699
+Avg_prob_count: 1.18837
+---------------------------
+
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.609573
+Avg_prob_count: 1.20656
+
+After rehashing:
+Chain_length: 3
+Load factor: 0.30468
+Avg_prob_count: 1.14754
+---------------------------
+
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.489486
+Avg_prob_count: 1.15
+
+After rehashing:
+Chain_length: 4
+Load factor: 0.244615
+Avg_prob_count: 1.13265
+---------------------------
+
+# For Deletion
+---------------------------
+
+   Table size : 5000
+#### Seperate Chaining ####
+# For Insertion
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.679592
+Avg_prob_count: 1.03529
+
+After rehashing:
+Chain_length: 3
+Load factor: 0.339762
+Avg_prob_count: 1.18529
+---------------------------
+
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.709503
+Avg_prob_count: 1.16761
+
+After rehashing:
+Chain_length: 4
+Load factor: 0.354628
+Avg_prob_count: 1.20282
+---------------------------
+
+# For Deletion
+---------------------------
+
+   Table size : 10000
+#### Seperate Chaining ####
+# For Insertion
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.609573
+Avg_prob_count: 1.03115
+
+After rehashing:
+Chain_length: 3
+Load factor: 0.30468
+Avg_prob_count: 1.14754
+---------------------------
+
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.489486
+Avg_prob_count: 1.15
+
+After rehashing:
+Chain_length: 4
+Load factor: 0.244615
+Avg_prob_count: 1.13265
+---------------------------
+
+# For Deletion
+---------------------------
+
+   Table size : 10000
+#### Seperate Chaining ####
+# For Insertion
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.709503
+Avg_prob_count: 1.03099
+
+After rehashing:
+Chain_length: 4
+Load factor: 0.354628
+Avg_prob_count: 1.20282
+---------------------------
+
+# For Deletion
+---------------------------
+
+   Table size : 20000
+#### Seperate Chaining ####
+# For Insertion
+# For Deletion
+---------------------------
+
+   Table size : 20000
+#### Seperate Chaining ####
+# For Insertion
+
+Before rehashing:
+Chain_length: 5
+Load factor: 0.409775
+Avg_prob_count: 1.01829
+
+After rehashing:
+Chain_length: 4
+Load factor: 0.204841
+Avg_prob_count: 1.09634
+---------------------------
+
+# For Deletion
+---------------------------
